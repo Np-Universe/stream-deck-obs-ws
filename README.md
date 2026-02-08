@@ -187,7 +187,9 @@ Rotate phone horizontally for better view of audio controls
 
 ## License
 
-This project is created for personal use.
+This project is created for personal use. You can modify this project if you want.
+
+**Feel free to modify this project according to your needs!** You can customize, enhance, or adapt any part of the code to suit your specific requirements.
 
 ---
 
@@ -382,4 +384,4 @@ Putar phone horizontal untuk view audio controls yang lebih baik
 
 ### Lisensi
 
-Proyek ini dibuat untuk penggunaan pribadi.
+Proyek ini dibuat untuk penggunaan pribadi. Anda dapat memodifikasi proyek ini jika Anda mau.
